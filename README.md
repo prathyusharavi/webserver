@@ -27,7 +27,7 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-```
+```py
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
 content='''
@@ -41,6 +41,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4.MERN Stack</h2>
+<h2>5.ASP.Net</h2>
 </body>
 </html>
 '''
@@ -59,7 +61,10 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![Screenshot (8)](https://github.com/prathyusharavi/webserver/assets/147474424/9ca3d7df-ff23-44b6-bda2-3e357e3b8af7)
+### Server output
+/home/sec/Pictures/Screenshots/serveroutput.png
+### Client output
+/home/sec/Downloads/clientoutput.png
 
 ## RESULT:
 The program is executed succesfully
