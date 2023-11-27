@@ -64,12 +64,13 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 
+### Server output
 ![image](https://github.com/prathyusharavi/webserver/assets/147474424/2168af34-4de2-4ada-92a6-9bd041710e0b)
 
-### Server output
-/home/sec/Pictures/Screenshots/serveroutput.png
 ### Client output
-/home/sec/Downloads/clientoutput.png
+
+![image](https://github.com/prathyusharavi/webserver/assets/147474424/614813c2-de64-42a0-8787-5807eb42eb3f)
+
 
 ## RESULT:
 The program is executed succesfully
