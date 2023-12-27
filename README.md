@@ -4,7 +4,7 @@
 
 # AIM:
 
-To develop a simple webserver to serve html programming pages.
+To develop a simple webserver to serve html programming Pages.
 
 ## DESIGN STEPS:
 
